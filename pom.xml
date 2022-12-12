@@ -12,6 +12,8 @@
         <module>old-ref</module>
         <module>jvm-byte</module>
         <module>java-asm</module>
+        <module>java-agent</module>
+        <module>java-agent/jdk-asm-agent</module>
     </modules>
 
 </project>
