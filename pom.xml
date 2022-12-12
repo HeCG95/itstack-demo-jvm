@@ -11,6 +11,7 @@
     <modules>
         <module>old-ref</module>
         <module>jvm-byte</module>
+        <module>java-asm</module>
     </modules>
 
 </project>
