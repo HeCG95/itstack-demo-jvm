@@ -14,6 +14,7 @@
         <module>java-asm</module>
         <module>java-agent</module>
         <module>java-agent/jdk-asm-agent</module>
+        <module>java-proxy</module>
     </modules>
 
 </project>
